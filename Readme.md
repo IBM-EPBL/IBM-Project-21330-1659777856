@@ -2,7 +2,7 @@ Smart Fashion Recommender Application
 
 Category: Cloud App Development Batch Name : B2-2M4E
 
-Team ID : PNT2022TMID2259o
+Team ID : PNT2022TMID22590
 
 Team Size : 4
 
